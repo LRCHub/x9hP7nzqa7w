@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君とデート",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T12:57:48.909234Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君とデート",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_君とデート_7co.txt"
+    }
+  ]
+}
